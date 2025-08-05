@@ -30,7 +30,8 @@ refill-prediction/
 
 ## 🖼️ Example Screenshot
 
-![Notebook Preview](https://user-images.githubusercontent.com/your-placeholder/notebook-preview.png)
+[Notebook Preview](notebook-preview.png)
+
 
 > *(Replace this with a real screenshot once you're ready!)*
 
